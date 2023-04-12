@@ -1,4 +1,4 @@
-# Proje Başlığı
+# Kodluyoruz Front-End
 
 Bu proje, [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Web Development Patikası için ödev olarak hazırlanmıştır.
 
