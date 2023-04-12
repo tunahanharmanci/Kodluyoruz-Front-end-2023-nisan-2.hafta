@@ -13,4 +13,4 @@ Bu projeyi kendi bilgisayarınıza kurmak için aşağıdaki adımları takip ed
 1. Bu repository'i kendi bilgisayarınıza klonlayın.
 
    ```bash
-   git clone https://github.com/KULLANICI_ADI/PROJE_ADI.git
+   git clone https://github.com/tunahanharmanci/Kodluyoruz-Front-end-2023-nisan-2.hafta.git
